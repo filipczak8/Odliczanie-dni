@@ -106,11 +106,4 @@
 Już coraz bliżej :)
 </br>
 
-Zapraszam również na tę stronę</br>
-</br>
-<a href="https://jakubtrybowski.github.io/s4/index.html">Odliczanie do końca roku szkolnego</a>
-</div>
-</div>
-</center>
-</body>
-</html>
+
