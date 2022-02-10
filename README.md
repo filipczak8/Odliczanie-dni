@@ -1,1 +1,4 @@
+oblicznie dni
+
+kurwa
 
